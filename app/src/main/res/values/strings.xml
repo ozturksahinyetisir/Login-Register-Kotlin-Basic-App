@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Week 2</string>
+    <string name="enteryour">Enter Your Username &amp; Password</string>
+    <string-array name="user">
+        <item>ozturk</item>
+        <item>patika</item>
+    </string-array>
+
+    <string-array name="pass">
+        <item>ozturk</item>
+        <item>kodluyoruz</item>
+    </string-array>
+</resources>
